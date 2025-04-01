@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/339275e2-d784-4bdd-9c73-9b4a3d55fb7a
+
+
 # **ПАСЬЯНС（Solitaire in EXAPUNKS）的机器人**
 
 ## **使用方法**
